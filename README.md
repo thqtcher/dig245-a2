@@ -9,12 +9,12 @@ Using Atom and Git
 - [x] Inside `index.html`:
   - [x] Add appropriate structural HTML tags (doctype, html, head, body, etc.)
   - [x] Add some media to this page, like an image of your favorite animal.
-  - [ ] Using an ordered list, write step by step instructions for viewing the HTML source of a web page in your favorite browser. Include the name of the browser.
-  - [ ] Invent and add a new unique metaphor for this action (e.g. “Looking under the hood”)
-  - [ ] Style your page with CSS
-  - [ ] Save your work and commit and push changes regularly
-- [ ] Confirm valid [HTML](https://validator.w3.org/) and [CSS](https://jigsaw.w3.org/css-validator/). Note: Only *your* CSS files because Bootstrap's built-in support for older browsers [will not validate](https://getbootstrap.com/docs/4.5/getting-started/introduction/))
-- [ ] When finished, [publish and post your project](https://docs.google.com/document/d/17U_zmzM_eML_qkG0PaOdDRcEk3YEmbiQ1TyNnbAM08k/edit)
+  - [x] Using an ordered list, write step by step instructions for viewing the HTML source of a web page in your favorite browser. Include the name of the browser.
+  - [x] Invent and add a new unique metaphor for this action (e.g. “Looking under the hood”)
+  - [x] Style your page with CSS
+  - [x] Save your work and commit and push changes regularly
+- [x] Confirm valid [HTML](https://validator.w3.org/) and [CSS](https://jigsaw.w3.org/css-validator/). Note: Only *your* CSS files because Bootstrap's built-in support for older browsers [will not validate](https://getbootstrap.com/docs/4.5/getting-started/introduction/))
+- [x] When finished, [publish and post your project](https://docs.google.com/document/d/17U_zmzM_eML_qkG0PaOdDRcEk3YEmbiQ1TyNnbAM08k/edit)
 - [ ] Points: `20`
   - [ ] `4` info
   - [ ] `4` follow instructions
